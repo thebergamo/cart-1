@@ -2,6 +2,8 @@
 
 # cart
 
+TODO: Push to deploy
+
 # Entity Relationship Model
 ![alt tag](https://github.com/thebergamo/cart/blob/master/documents/cart-conceitual-en.jpg)
 > Definition
